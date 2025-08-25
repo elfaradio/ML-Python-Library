@@ -16,8 +16,8 @@ This repository contains Python code and examples for Machine Learning projects.
 
 
 ```bash
-git clone https://github.com/elfaradio/ML-with-Python.git
-cd ML-with-Python
+git clone https://github.com/elfaradio/ML-Python-Library.git
+cd ML-Python-Library
 python -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
